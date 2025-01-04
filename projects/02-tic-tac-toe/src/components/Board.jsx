@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { Square } from "./Square.jsx";
 
 export const Board = ({ board, updateBoard }) => {
